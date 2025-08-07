@@ -1,0 +1,1 @@
+# Debian 13 Upgrade Script\n\nThis script upgrades a Debian 12 (Bookworm) system to Debian 13 (Trixie).\n\n## Usage\n```bash\nsudo ./upgrade-to-debian13.sh\n```\n\n## Notes\n- Run as root.\n- Logs are saved in /var/log/.\n- Backup your data before running.
